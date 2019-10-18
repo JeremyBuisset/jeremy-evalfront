@@ -97,6 +97,11 @@ h1{
     font-size: 25px;
 }
 
+li:hover{
+    background: #FFB400;
+    color: black;
+}
+
 @media (max-width: 812px) {
     body{
         margin: 0
