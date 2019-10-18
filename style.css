@@ -101,7 +101,12 @@ li:hover{
     background: #FFB400;
     color: black;
 }
+@media (max-width: 1388px) {
+    ul li{
+        font-size: 18px;
+    }
 
+}
 @media (max-width: 812px) {
     body{
         margin: 0
