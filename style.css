@@ -93,6 +93,10 @@ h1{
 }
 
 @media (max-width: 812px) {
+
+    body{
+        margin: 0;
+    }
     #main{
         width:100%;
         color: #fffcf5;
@@ -120,6 +124,10 @@ h1{
     .carre{
         width: 50%;
         height: 175px;
+    }
+
+    .carre:nth-child(8){
+        background: #F15A49;
     }
 
 
