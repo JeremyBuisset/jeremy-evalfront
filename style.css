@@ -1,9 +1,10 @@
 #main{
     width:100%;
     height: 600px;
-    background: #A8A5A1;
+    background: #65a86a;
     color: #fffcf5;
     font-family: 'Roboto', sans-serif;
+    border: 4px solid #a7a7a7;
 }
 
 #gauche{
@@ -93,10 +94,6 @@ h1{
 }
 
 @media (max-width: 812px) {
-
-    body{
-        margin: 0;
-    }
     #main{
         width:100%;
         color: #fffcf5;
@@ -124,10 +121,6 @@ h1{
     .carre{
         width: 50%;
         height: 175px;
-    }
-
-    .carre:nth-child(8){
-        background: #F15A49;
     }
 
 
